@@ -21,13 +21,12 @@ He/Him
 ## ⚡ Fun fact
 I enjoy solving complex problems and continuously learning about emerging technologies in the DevOps landscape.
 
-## 🏆 Achievements
-- **Improved Deployment Efficiency**: Streamlined deployment processes, reducing deployment time by 30%.
-- **Enhanced System Reliability**: Implemented monitoring and alerting systems, decreasing downtime by 25%.
-- **Process Optimization**: Optimized change management workflows, reducing approval times by 40%.
-- **Client Satisfaction**: Achieved a 95% customer satisfaction rate by consistently meeting SLA targets.
-- **Incident Resolution Tool**: Developed a tool for better incident management, enhancing reporting accuracy.
-- **Release Management**: Led major projects, increasing release frequency and reducing deployment failures by 35%.
+### Achievements 🏅
+- Improved deployment efficiency, reducing deployment time by 30%.
+- Enhanced system reliability, decreasing downtime by 25% with advanced monitoring.
+- Achieved a 95% customer satisfaction rate by consistently meeting SLA targets.
+- Optimized change management workflows, reducing approval times by 40%.
+- Increased release frequency and reduced deployment failures by 35%.
 
 ## 🛠 Skills
 - **Cloud Platforms**: AWS, GCP, Pivotal Cloud Foundry
