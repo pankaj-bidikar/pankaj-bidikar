@@ -42,5 +42,7 @@ I enjoy solving complex problems and continuously learning about emerging techno
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankaj.bidikar07@gmail.com)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
+![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankaj-bidikar&show_icons=true&hide_border=true)
+
 ## Authors
 - [@Pankaj Bidikar](https://www.github.com/pankaj-bidikar)
