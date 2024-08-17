@@ -1,4 +1,4 @@
-### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Pankaj!](https://github.com/pankaj-bidikar)
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Pankaj](https://github.com/pankaj-bidikar)!
 
 <a href="https://www.linkedin.com/in/pankajbidikar/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
