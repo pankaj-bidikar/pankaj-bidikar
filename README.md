@@ -1,25 +1,30 @@
 # Hi, I'm [Pankaj Bidikar](https://github.com/pankaj-bidikar)! 👋
 
-## 🚀 About Me
-As a DevOps Engineer with over three years of experience, I excel in automating and optimizing CI/CD pipelines and managing cloud infrastructures on AWS and GCP. My expertise includes:
-- **Configuration Management**: Ansible
-- **Containerization**: Docker and Kubernetes
-- **Infrastructure as Code**: Terraform
+### About Me 🚀
+🎓 I’m a DevOps Engineer with 3+ years of experience in CI/CD automation, AWS, and GCP cloud management.
+👨‍💻 I am passionate about Kubernetes, Docker, Terraform, and enhancing deployment efficiency.
+🌱 I enjoy learning new things and optimizing workflows to ensure seamless and efficient deployments.
 
 ## 👀 I’m interested in
 I am exploring new DevOps tools and technologies, enhancing system scalability, and improving deployment efficiency.
 
-## 🌱 I’m currently learning
-Advanced DevOps concepts, networking, and security.
+### My Experiences 🙌
+- **Technology Analyst** (Jan 2024 - Present) | Infosys Ltd. — Client - Charles Schwab, Hyderabad, IN
+  - Designed and implemented scalable and secure solutions, enhancing system capacity by 40%.
+  - Developed infrastructure automation framework using Terraform, improving provisioning efficiency by 40%.
+  - Managed CI/CD pipelines with Jenkins and Maven, reducing integration and deployment time by 25%.
+  - Automated processes with Bash scripting, reducing manual labor by 40%.
 
-## 💞️ I’m looking to collaborate on
-Projects involving cloud infrastructure, CI/CD pipeline automation, and system optimization.
+- **Senior System Engineer** (Jul 2023 - Dec 2023) | Infosys Ltd. — Client - Charles Schwab, Hyderabad, IN
+  - Orchestrated disaster recovery, reducing system downtime by 40%.
+  - Implemented CI/CD pipelines with Jenkins, Bamboo, and Terraform, increasing release frequency by 35%.
+  - Utilized Docker and Kubernetes for containerization, optimizing system resources by 30%.
+  - Coordinated change management processes, reducing update-related incidents by 20%.
 
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun fact
-I enjoy solving complex problems and continuously learning about emerging technologies in the DevOps landscape.
+- **System Engineer** (May 2021 - Jun 2023) | Infosys Ltd. — Client - Charles Schwab, Hyderabad, IN
+  - Administered Windows Server, managing over 200 incidents monthly, reducing incident resolution time by 25%.
+  - Supported all phases of the SDLC, reducing deployment errors by 20% and speeding up release cycles by 15%.
+  - Enhanced service delivery by 20%, ensuring high customer satisfaction.
 
 ### Achievements 🏅
 - Improved deployment efficiency, reducing deployment time by 30%.
