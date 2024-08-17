@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 As a DevOps Engineer with over three years of experience, I excel in automating and optimizing CI/CD pipelines and managing cloud infrastructures on AWS and GCP. My expertise includes:
-- **Configuration Management**: Ansible and Chef
+- **Configuration Management**: Ansible
 - **Containerization**: Docker and Kubernetes
 - **Infrastructure as Code**: Terraform
 
