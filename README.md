@@ -1,12 +1,26 @@
-# Hi, I'm [Pankaj Bidikar](https://github.com/pankaj-bidikar)! 👋
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Pankaj!](https://github.com/pankaj-bidikar)
+
+<a href="https://www.linkedin.com/in/pankajbidikar/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:pankaj.bidikar07@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br />
 
 ### About Me 🚀
-🎓 I’m a DevOps Engineer with 3+ years of experience in CI/CD automation, AWS, and GCP cloud management.
-👨‍💻 I am passionate about Kubernetes, Docker, Terraform, and enhancing deployment efficiency.
-🌱 I enjoy learning new things and optimizing workflows to ensure seamless and efficient deployments.
+🎓 I’m a DevOps Engineer with 3+ years of experience in CI/CD automation, AWS, and GCP cloud management. </br>
+👨‍💻 I am passionate about Kubernetes, Docker, Terraform, and enhancing deployment efficiency. </br>
+🌱 I enjoy learning new things and optimizing workflows to ensure seamless and efficient deployments. </br>
 
-## 👀 I’m interested in
-I am exploring new DevOps tools and technologies, enhancing system scalability, and improving deployment efficiency.
+### My Skills 🔧
+- **Cloud Platforms:** AWS, GCP, Pivotal Cloud Foundry
+- **DevOps Tools:** Jenkins, Bamboo, Maven, Docker, Kubernetes, Terraform, CI/CD Pipelines
+- **Monitoring:** Splunk, Grafana, AWS CloudWatch
+- **Scripting:** Bash, PowerShell
+- **Operating Systems:** Windows Server, Linux
+- **Soft Skills:** Strong Collaboration, Excellent Problem-Solving Abilities, Adaptability, Effective Communication
 
 ### My Experiences 🙌
 - **Technology Analyst** (Jan 2024 - Present) | Infosys Ltd. — Client - Charles Schwab, Hyderabad, IN
@@ -33,20 +47,9 @@ I am exploring new DevOps tools and technologies, enhancing system scalability, 
 - Optimized change management workflows, reducing approval times by 40%.
 - Increased release frequency and reduced deployment failures by 35%.
 
-## 🛠 Skills
-- **Cloud Platforms**: AWS, GCP, Pivotal Cloud Foundry
-- **DevOps Tools**: Jenkins, Bamboo, Maven, Docker, Kubernetes, Terraform, CI/CD Pipelines
-- **Monitoring**: Splunk, Grafana, AWS CloudWatch
-- **Scripting**: Bash, PowerShell
-- **Operating Systems**: Windows Server, Linux
-- **Soft Skills**: Strong Collaboration, Excellent Problem-Solving abilities, Adaptability, and Effective Communication
-
-## 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajbidikar/)
-[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankaj.bidikar07@gmail.com)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
 ![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankaj-bidikar&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pankaj-bidikar.pankaj-bidikar)
 
 ## Authors
 - [@Pankaj Bidikar](https://www.github.com/pankaj-bidikar)
